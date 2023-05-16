@@ -1,6 +1,6 @@
 # ETL-Extract-bank-and-market-cap-data
 
-This is the project for the course Python Project for Data Engineering offered by IBM on Coursera.org. One is required to run the ETL process, extract bank and market cap data from the JSON file bank_market_cap.json, transform the market cap currency using the exchange rate data, and load the transformed data into a seperate CSV. 
+This is the project for the course Python Project for Data Engineering offered by IBM on Coursera.org. One is required to run the ETL process, extract bank and market cap data from the JSON file bank_market_cap.json, transform the market cap currency using the exchange rate data, and load the transformed data into a separate CSV file. 
 
 Datasets ready for download and use: 
 1. JSON file bank_market_cap_1.json to extract market cap data,
